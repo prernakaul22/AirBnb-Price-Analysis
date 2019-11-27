@@ -1,4 +1,3 @@
-README
 
 The structure of this Part 1 of Project is:
 
