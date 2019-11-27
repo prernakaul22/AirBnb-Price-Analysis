@@ -1,6 +1,4 @@
-README for ANLY501 Project Part 3
 
-- 
 HistCorr.py contains codes for data visualization and an extra plotly plot
 
 Visualization.py contains all other extra visualization that made of plotly
