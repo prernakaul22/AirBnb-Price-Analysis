@@ -1,0 +1,20 @@
+The missing values for each variable is: 
+index	0
+total	227
+price	0
+property_type	0
+room_type	0
+accommodates	0
+bathrooms	100
+bedrooms	55
+beds	56
+bed_type	0
+guests_included	0
+host_profile_pic	8
+identity_verified	8
+zipcode	0
+latitude	0
+longitude	0
+
+The total number of incorrect values is: 16.
+The final score is: 99.964.

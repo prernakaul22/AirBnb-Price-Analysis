@@ -1,0 +1,9 @@
+The missing values for each variable is: 
+index	0
+total	0
+zipcode	0
+rating	0
+review_count	0
+
+The total number of incorrect values is: 0.
+The final score is: 100.000.
