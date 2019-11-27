@@ -1,6 +1,6 @@
 HistCorr.py: show histogram and correlation
 
-DataCleaning. py: clean data
+DataCleaning.py: clean data
 
 Analysis.py: Statistics Analysis
 
